@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mavenwebappcontainer
-        image: alatagichetandevops/maven-web-application:1
+        image: alatagichetandevops/mavenwebapp:1
         ports:
         - containerPort: 8080
 ---
