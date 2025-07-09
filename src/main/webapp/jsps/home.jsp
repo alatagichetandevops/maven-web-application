@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>iSoftStone</title>
+
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies. Ph No: +91-9980923226,+91-9900012028</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps & Cloud </h1>
+<h1 align="center">Welcome to </h1>
+<h1 align="center"> iSoftStone </h1>
 
-<h2> Trainer Name: Balaji Reddy Lachhannagari</h2>
+<h2> Hello World</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,26 +31,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.print( "Client IP Address :: " + request.getRemoteAddr() ); %><br>
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
 <hr>
-<div style="text-align: center;">
-	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
-	</span>
-	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
-		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
-	</span>
-</div>
+
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
 
 </body>
 </html>
