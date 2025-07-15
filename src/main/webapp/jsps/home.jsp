@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to </h1>
-<h1 align="center"> iSoftStone Hii </h1>
+<h1 align="center"> iSoftStone </h1>
 
 <h2> Hello World</h2>
 <hr>
